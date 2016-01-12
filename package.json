@@ -1,0 +1,16 @@
+{
+  "title": "VOZ Living Mobile",
+  "name": "voz-living-mobile",
+  "version": "1.0.0",
+  "description": "VOZ Living Mobile for Firefox fore Android",
+  "main": "index.js",
+  "author": "phonglk",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

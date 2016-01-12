@@ -1,0 +1,18 @@
+body{
+    
+}
+
+.page {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 5000px !important;
+}
+
+[style*='970px']{
+    width: 100% !important;
+}
+
+.clearfix{
+    width: 100% !important;
+    min-width: 0px;
+}
